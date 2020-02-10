@@ -1,0 +1,7 @@
+{
+  "cb_customer_srv": {
+    "directoryName": "cb-customer-service",
+    "servicePath": "/sap/opu/odata/sap/CB_CUSTOMER_SRV",
+    "npmPackageName": "cb-customer-service"
+  }
+}
